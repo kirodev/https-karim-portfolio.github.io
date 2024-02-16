@@ -2,7 +2,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-if an expired license rawSVGPlugin appears please try again and when you're home inside the protfolio website go to about page or any other tab when the error appear again just click backward browser button and you are fine ! thank you
+alert ! if an expired license DrawSVGPlugin appears please try again and when you're home inside the protfolio website go to about page or any other tab when the error appear again just click backward browser button and you are fine ! thank you
 
 
 ## Available Scripts
